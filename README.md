@@ -2,12 +2,12 @@ Google Adwords Scripts
 ================================
 
 
-##AdGroups Ad Count
+###AdGroups Ad Count
 
-Get Ad Groups with very few or lots of active ads (Adwords Scripts)
+Get AdGroups with very few (less than 3) or lots of active ads (more than 5).
 
 
-##Text Ads Report
+###Text Ads Report
 
 It takes all text ads which require further optimization and saves them in a Google Spreadsheet
 
